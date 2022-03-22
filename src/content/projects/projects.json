@@ -1,0 +1,10 @@
+{
+  "coding-club-website": {
+    "image": "images/placeholder-image.jpg",
+    "name": "Placeholder Name",
+    "authors": ["Placeholder Name"],
+    "description": "Placeholder description",
+    "githubLink": "Placeholder url",
+    "status": "Last Updated Placeholder_date"
+  }
+}

@@ -1,0 +1,22 @@
+body {
+  /* background-color: honeydew; */
+  background-color: #F8F6F0;
+}
+
+body {
+  font-family: "Courier New", Courier, monospace;
+}
+
+.title {
+  color: #171738;
+  /* color: cornflowerblue; */
+}
+
+iframe {
+  width: 800px;
+  height: 600px
+}
+
+.content {
+  font-family: "Montserrat", sans-serif;
+}
